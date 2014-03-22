@@ -8,6 +8,12 @@
 
 #include <aJSON.h>
 
+/* *********************** */
+
+/* *********************** */
+
+
+/* *********************** */
 void setup() {
   /* setup the application */
 }
@@ -15,3 +21,4 @@ void setup() {
 void loop() {
   /* main application loop */
 }
+/* *********************** */
